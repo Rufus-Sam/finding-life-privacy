@@ -9,7 +9,7 @@ title: Finding Life Privacy Policy
 
 # Finding Life Privacy Policy
 
-**Effective date:** October 12, 2026
+**Effective date:** October 19, 2026
 
 Finding Life ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
@@ -18,7 +18,7 @@ Finding Life ("the app") is made by Sustain Digital ("we", "us"). This policy ex
 Nothing. The app:
 
 - has **no account** or sign-up
-- makes **no internet connections** of its own. The Bible, journeys, stories and everything else are inside the app.
+- goes online **only to download a language you choose**. English is inside the app. When you pick another language, the app downloads that language's Bible and content from GitHub Pages (rufus-sam.github.io), then works offline. Nothing about you is sent; like any website, GitHub sees the device's IP address when it serves the file (see GitHub's privacy statement).
 - contains **no analytics, advertising or tracking** tools
 - does **not** sell or share any data, because it never has any
 
@@ -30,7 +30,8 @@ Everything you add or choose is saved **only on your device**, in the app's priv
 - the path and struggles you choose on the welcome screen
 - your journey progress, daily goals and streak
 - verses and stories you save
-- your settings (appearance, text size, sounds)
+- your settings (language, appearance, text size), your chosen journey and your home region
+- the languages you download
 
 We cannot see this data. Uninstalling the app deletes it. It may be included in your device's own backups (Google or iCloud), which Google and Apple handle under their own privacy policies.
 
