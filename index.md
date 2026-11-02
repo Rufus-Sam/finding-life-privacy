@@ -11,7 +11,7 @@ title: Finding Life Privacy Policy
 
 **Effective date:** October 19, 2026
 
-Finding Life ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
+Finding Life ("the app") is made by Small Light Studios ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
 ## What the app collects
 
