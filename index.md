@@ -9,7 +9,7 @@ title: Finding Life Privacy Policy
 
 # Finding Life Privacy Policy
 
-**Effective date:** October 19, 2026
+**Effective date:** October 19, 2026 · **Last updated:** November 5, 2026
 
 Finding Life ("the app") is made by Small Light Studios ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
@@ -49,4 +49,4 @@ If this policy ever changes, the updated version will be posted at this address 
 
 ## Contact
 
-Questions? Email **sam2001rufus@gmail.com**.
+Questions? Email **hello@smalllightstudios.com**.
